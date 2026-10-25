@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "미래융합기술연구센터": {
+      "style": "ribbon",
+      "wall": "#e0ddd4",
+      "glass": "#4a6a80",
+      "frame": "#b8a488"
+    },
+    "인문사회관": {
+      "style": "concrete",
+      "wall": "#d8d8d4",
+      "glass": "#4a5864",
+      "frame": "#b8bcc0"
+    },
+    "지역복합문화관": {
+      "style": "ribbon",
+      "wall": "#d4d6d8",
+      "glass": "#3f6e95",
+      "frame": "#b0b4b8"
+    },
+    "제1농학관": {
+      "style": "stone",
+      "wall": "#ece6dc",
+      "glass": "#4a5058",
+      "frame": "#c8c2b8"
+    },
+    "제2농학관": {
+      "style": "stone",
+      "wall": "#e2ddd4",
+      "glass": "#3e4850",
+      "frame": "#c8c4bc"
+    },
+    "제2농학관, 축산기술지원센터": {
+      "style": "stone",
+      "wall": "#e2ddd4",
+      "glass": "#3e4850",
+      "frame": "#c8c4bc"
+    },
+    "산학협력관": {
+      "style": "brick",
+      "wall": "#9a5a48",
+      "glass": "#3f5a54",
+      "frame": "#e0dcd6"
+    },
+    "학생회관": {
+      "style": "tan",
+      "wall": "#cdbfa8",
+      "glass": "#3e4a52",
+      "frame": "#a89a86"
+    },
+    "자연과학관": {
+      "style": "tan",
+      "wall": "#d4c4a6",
+      "glass": "#3c4650",
+      "frame": "#e2dace"
+    },
+    "본관": {
+      "style": "brick",
+      "wall": "#9a5c4c",
+      "glass": "#3a4450",
+      "frame": "#c8c8c8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
