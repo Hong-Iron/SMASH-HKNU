@@ -1,0 +1,34 @@
+{
+ "region": "경기 안성시 석정동",
+ "nameEn": "Hankyong National University",
+ "added": "2026-10-17",
+ "rank": 102,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CAU-DAVINCI",
+   "campus": "중앙대학교 다빈치캠퍼스",
+   "km": 3.1
+  },
+  {
+   "code": "DIMA",
+   "campus": "동아방송예술대학교",
+   "km": 10.0
+  },
+  {
+   "code": "YONAM",
+   "campus": "연암대학교",
+   "km": 11.7
+  },
+  {
+   "code": "PTU",
+   "campus": "평택대학교",
+   "km": 11.7
+  },
+  {
+   "code": "DOOWON",
+   "campus": "두원공과대학교 안성캠퍼스",
+   "km": 15.3
+  }
+ ]
+}
